@@ -41,6 +41,12 @@ h2 {
     left: 0; top: 50%;
     transform: translateY(-50%);
 }
+
+#main_header > h1 > a > img {
+  width: 85px;
+  height: 85px;
+}
+
 .bg {
       position: absolute;
       top: 130px;
